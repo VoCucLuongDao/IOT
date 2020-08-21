@@ -1,0 +1,55 @@
+uart_config.pbi: D:\STM32\Den\ thong\ minh\Libraries\uart_config.c \
+  D:\STM32\Den\ thong\ minh\Libraries/uart_config.h \
+  D:\STM32\Den\ thong\ minh\Libraries\CMSIS\Device\ST\STM32F4xx\Include\stm32f4xx.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include\core_cm4.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdint.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ycheck.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\yvals.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Defaults.h \
+  C:\\Program\ Files\ (x86)\\IAR\ Systems\\Embedded\ Workbench\ 8.3\\arm\\inc\\c\\DLib_Config_Normal.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include/cmsis_version.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include/cmsis_compiler.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include\cmsis_iccarm.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\iccarm_builtin.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\CMSIS\Core\Include/mpu_armv7.h \
+  D:\STM32\Den\ thong\ minh\Libraries\CMSIS\Device\ST\STM32F4xx\Include/system_stm32f4xx.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_conf.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc/misc.h \
+  D:\STM32\Den\ thong\ minh\Libraries/stm32f4xx_it.h \
+  D:\STM32\Den\ thong\ minh\inc\main.h \
+  D:\STM32\Den\ thong\ minh\Libraries\Lib_ds18b20.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_adc.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rcc.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_gpio.h \
+  D:\STM32\Den\ thong\ minh\Libraries/delay.h \
+  D:\STM32\Den\ thong\ minh\Libraries\Lib_rtc.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_rtc.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_pwr.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_exti.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdio.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\ysizet.h \
+  D:\STM32\Den\ thong\ minh\Libraries/button.h \
+  D:\STM32\Den\ thong\ minh\Libraries/Lib_rtc.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\stdlib.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_stdlib.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_syscfg.h \
+  D:\STM32\Den\ thong\ minh\Libraries/tft1_8.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_spi.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_dma.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\misc.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\string.h \
+  C:\Program\ Files\ (x86)\IAR\ Systems\Embedded\ Workbench\ 8.3\arm\inc\c\DLib_Product_string.h \
+  D:\STM32\Den\ thong\ minh\Libraries/SPI_Config.h \
+  D:\STM32\Den\ thong\ minh\Libraries\tft1_8.h \
+  D:\STM32\Den\ thong\ minh\Libraries\esp_01.h \
+  D:\STM32\Den\ thong\ minh\Libraries\iwdg.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_iwdg.h \
+  D:\STM32\Den\ thong\ minh\Libraries\SPI_Config.h \
+  D:\STM32\Den\ thong\ minh\Libraries\button.h \
+  D:\STM32\Den\ thong\ minh\Libraries\delay.h \
+  D:\STM32\Den\ thong\ minh\Libraries\timer_config.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_tim.h \
+  D:\STM32\Den\ thong\ minh\Libraries\adc_config.h \
+  D:\STM32\Den\ thong\ minh\Libraries/timer_config.h \
+  D:\STM32\Den\ thong\ minh\Libraries\STM32F4xx_StdPeriph_Driver\inc\stm32f4xx_usart.h
